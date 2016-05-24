@@ -1,0 +1,122 @@
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+header{
+  background: #93FDF4;
+  
+  margin: 0 auto;
+}
+
+.clearfix{
+  clear: both;
+}
+
+header #logo{
+  float: left;
+}
+
+header .container{
+  width: 1175px;
+  margin: 0 auto;
+}
+
+header nav{
+  width: 800;
+  float: right;
+}
+
+header nav ul{
+  text-transform: uppercase;
+  list-style: none;
+  text-align: center;
+  
+}
+
+header nav li{
+  float: left;
+  line-height: 30px;
+}
+
+header a{
+  color: black;
+  text-decoration: none;
+  display: block;
+  width: 85px
+  margin: 0 auto;
+}
+
+hr{
+  width: 50px;
+  font-weight: bold;
+}
+
+.slogan{
+  padding:20px;
+text-align: center;
+}
+
+h1{
+  color: white; 
+}
+
+.desc{
+  text-align: center;
+}
+
+.container{
+  
+  text-align: center;
+}
+
+.container nav{
+  width: 1175px;
+  margin: 0 auto;
+}
+
+.container nav ul li{
+  float: left;
+  width: 16.66%;
+}
+
+.container nav ul li a{
+  text-decoration: none;
+  color: black;
+
+}
+
+.row{
+  width: 1175px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.container-col4{
+  width: 33%;
+  float: left;
+  margin: 8px auto;
+}
+
+.load{
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin: 50px auto;
+  background-color: yellow;
+}
+
+footer ul{
+  width: 1175px;
+  margin: 0 auto;
+}
+
+footer ul li{
+  float: left;
+  width: 20%;
+}
+
